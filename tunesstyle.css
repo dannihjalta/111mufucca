@@ -1,0 +1,30 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    background #f9f9f9;
+    font-size: 24px;
+    padding 25px;
+    text-align: center;
+}
+.parallax{
+    background: url('https://github.com/dannihjalta/111mufucca/blob/master/BeastsBreath3.png?raw=true') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 800px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+ a:hover {
+    color: gray;
+  }
+
+h1, h2{
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+}
